@@ -71,8 +71,6 @@ Aunque `p` está declarado como Person2, el programa ejecuta automáticamente la
 
 ## 4. Beneficios
 
-## 4. Beneficios
-
 ### Flexibilidad
 - El sistema permite usar una misma referencia para manejar distintos tipos de objetos (Patient4, Assistant, Dentist3).
 - Ejemplo:
@@ -97,3 +95,4 @@ public void showPersonInfo() {
 }
 ```
 - Esto reduce errores y facilita actualizar o mejorar el código.
+
