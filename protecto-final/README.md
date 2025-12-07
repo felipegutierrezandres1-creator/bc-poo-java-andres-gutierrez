@@ -40,7 +40,6 @@ com.ClinicaOdontologica/
 
 ### Polimorfismo
 - Métodos sobrescritos: `showInfo()` en `Dentist9` y `Patient9`
-- Métodos sobrecargados: N/A
 - Uso de colecciones polimórficas: Sí, la lista de `DentalProcedure9` almacena tanto tratamientos como citas.
 
 ### Abstracción
@@ -94,6 +93,7 @@ java -cp bin com.ClinicaOdontologica.Main9
 - Agregar reportes avanzados y estadísticas de citas.
 - Implementar actualización y eliminación de citas y pacientes.
 - Permitir asignación dinámica de dentistas por disponibilidad.
+
 
 
 
