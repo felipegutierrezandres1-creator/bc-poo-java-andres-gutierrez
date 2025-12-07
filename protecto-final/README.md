@@ -17,7 +17,7 @@ El sistema busca automatizar la gestión de citas y garantizar que los pacientes
 
 ### Diagrama de Clases
 
-
+![Diagrama UML](https://raw.githubusercontent.com/felipegutierrezandres1-creator/bc-poo-java-andres-gutierrez/refs/heads/main/protecto-final/docs/DiagramaUMLProyectofinal.png)
 
 ### Estructura de Paquetes
 ```
@@ -92,6 +92,7 @@ java -cp bin com.ClinicaOdontologica.Main9
 - Agregar reportes avanzados y estadísticas de citas.
 - Implementar actualización y eliminación de citas y pacientes.
 - Permitir asignación dinámica de dentistas por disponibilidad.
+
 
 
 
