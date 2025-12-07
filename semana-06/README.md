@@ -25,8 +25,9 @@ src/
 │    ├── MedicalRecord6.java
 │    └── Appointment6.java
 │
-└── Main/
 └── Main.java
+└── ANALISIS.md
+└── README.md
 ```
 
 
@@ -216,3 +217,4 @@ FIN DEL PROGRAMA 😎
 Process finished with exit code 0
 
 ```
+
