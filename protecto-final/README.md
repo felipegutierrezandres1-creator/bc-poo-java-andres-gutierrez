@@ -16,7 +16,8 @@ El sistema busca automatizar la gestión de citas y garantizar que los pacientes
 ## 🏗️ Arquitectura del Proyecto
 
 ### Diagrama de Clases
-![Diagrama de Clases](docs/diagrama-clases.png)
+
+
 
 ### Estructura de Paquetes
 ```
@@ -72,9 +73,7 @@ java -cp bin com.ClinicaOdontologica.Main9
 ```
 ## Evidencia Fotografica
 
-![proyectofinal1.PNG](../../proyectofinal1.PNG)
-![proyectofinal2.PNG](../../proyectofinal2.PNG)
-![proyectofinal3.PNG](../../proyectofinal3.PNG)
+
 
 
 ## 🎓 Reflexión Personal
@@ -93,6 +92,7 @@ java -cp bin com.ClinicaOdontologica.Main9
 - Agregar reportes avanzados y estadísticas de citas.
 - Implementar actualización y eliminación de citas y pacientes.
 - Permitir asignación dinámica de dentistas por disponibilidad.
+
 
 
 
