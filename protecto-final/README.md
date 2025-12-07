@@ -73,7 +73,9 @@ java -cp bin com.ClinicaOdontologica.Main9
 ```
 ## Evidencia Fotografica
 
-
+![Evidenca Fotografica1](https://raw.githubusercontent.com/felipegutierrezandres1-creator/bc-poo-java-andres-gutierrez/refs/heads/main/protecto-final/docs/proyectofinal1.PNG)
+![Evidenca Fotografica2](https://raw.githubusercontent.com/felipegutierrezandres1-creator/bc-poo-java-andres-gutierrez/refs/heads/main/protecto-final/docs/proyectofinal2.PNG)
+![Evidenca Fotografica3](https://raw.githubusercontent.com/felipegutierrezandres1-creator/bc-poo-java-andres-gutierrez/refs/heads/main/protecto-final/docs/proyectofinal3.PNG)
 
 
 ## 🎓 Reflexión Personal
@@ -92,6 +94,7 @@ java -cp bin com.ClinicaOdontologica.Main9
 - Agregar reportes avanzados y estadísticas de citas.
 - Implementar actualización y eliminación de citas y pacientes.
 - Permitir asignación dinámica de dentistas por disponibilidad.
+
 
 
 
